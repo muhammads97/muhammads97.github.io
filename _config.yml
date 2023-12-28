@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Salah"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Computer Engineer. Master's at Kyoto University of Advanced Science. Bachelor from Alexandria University."
   location         : "Kyoto, Japan"
   employer         :
