@@ -28,7 +28,7 @@ I love to describe myself as not only a researcher but also an engineer, which s
 I'm currently finishing my Master's studies under the supervision of Professor Salem Ibrahim Salem, in the Remote Sensing Lab under the management of Professor Kazuo Oki. I collaborate with the Japan Aerospace Exploration Agency ([JAXA](https://global.jaxa.jp/)) to develop state-of-the-art Chla estimation models for the SGLI instrument on board the GCOM-C satellite.\
 I'm also open to research collaboration with other institutions.\
 \
-I unofficially supervise a few undergraduate students in the remote sensing lab, where each student works on a separate research point; including Harmful Algal Blooms detection and classification, Water Quality parameter estimation, and fine-tuning Chla algorithms.
+I unofficially supervise a few undergraduate students in the remote sensing lab, where each student works on a separate research point; including Harmful Algal Bloom detection and classification, Water Quality parameter estimation, and fine-tuning Chla algorithms.
 
 **Leisure**\
 In my free time, I mostly like cycling, going on long rides and sightseeing with my road bike. I practice for triathlon, and I hope to be able to do the Ironman race one day. I also like cooking, and DIY projects.

@@ -4,6 +4,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "_pages/about.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_pages/teaching.md"
         }
     ]
 }
