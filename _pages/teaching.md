@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 
-**Teaching assistant at [KUAS](https://www.kuas.ac.jp/en/), Japan during my Master's:**\
+**Teaching assistant at [KUAS](https://www.kuas.ac.jp/en/), Japan during my Master's:**
 -   [Information Literacy](https://kuas.org/wiki/doku.php?id=class:il:main)\
 Assisting [Prof. Ian Piumarta](https://www.piumarta.com/cv/) in class, helping students understand basic computer skills and using the command line. 
 
