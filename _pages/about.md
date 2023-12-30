@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Muhammad Salah"
+excerpt: "Muhammad Salah"
 author_profile: true
 redirect_from: 
   - /about/
