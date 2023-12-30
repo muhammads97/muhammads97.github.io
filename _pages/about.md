@@ -35,6 +35,9 @@ In my free time, I mostly like cycling, going on long rides and sightseeing with
 
 News
 ======
+
+-   December 17, 2023: Poster presentation in *the 6th ISEE Symposium and the 20th Korea-Japan/11th Asia Ocean Color Workshop*: [Advanced Machine Learning Approach for Chlorophyll-a Retrieval with SGLI/GCOM-C Data](../files/3LATNet_Poster.pdf).
+
 -   September 28, 2023: Journal paper accepted in *Sensors and Materials*: [1D Convolutional Neural Network-based Chlorophyll-a Retrieval Algorithm for Sentinel-2 MultiSpectral Instrument in Various Trophic States](https://sensors.myu-group.co.jp/article.php?ss=4331).
 
 -   July 2023: Conference paper presented in *IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium*: "[B1D–CNN: A Novel Convolution Neural Network-Based Chlorophyll-A Retrieval Algorithm for Sentinel–2 Data](https://ieeexplore.ieee.org/document/10281795)". 
