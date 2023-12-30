@@ -28,7 +28,7 @@ My duties within the company included:
 4. Feature design, implementation, and deployment
 5. Communication with the client and the product manager to understand the requirements
 6. Refactoring legacy code bases and bug fixes
-The majority of the products I worked on at Rubikal used AWS for the server-side services, Ruby on Rails for the back end, and Reactjs for the front end. I worked on projects varying from fintech to food and beverage catering products. \
+The majority of the products I worked on at Rubikal used AWS for the server-side services, Ruby on Rails for the back end, and Reactjs for the front end. I worked on projects varying from fintech to food and beverage catering products. 
 
 **Software Engineering Intern** \
 *Jul. 2020 - Sept. 2020 (Egypt)* \
