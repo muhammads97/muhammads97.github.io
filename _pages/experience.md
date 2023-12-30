@@ -7,7 +7,7 @@ author_profile: true
 
 I've worked as a Software Engineer in different tech industries and various positions from the back end, front end, cross-platform mobile apps, and full stack engineer. I've used different development stacks and technologies. Below is a brief of my previous industrial experience.
 
-### [Sansan](https://www.sansan.com/) 
+## [Sansan](https://www.sansan.com/) 
 
 **Part-time Software Engineer** \
 *Jun. 2023 - Present (Japan)* \
@@ -17,7 +17,7 @@ Working with a global team of engineers to implement back-end and front-end feat
 3. Bug fixes
 in this product we use Kotlin and Google Cloud services for the back-end and server-side functionality. And for the front-end we mainly use Reactjs.
 
-### [Rubikal, INC](https://www.rubikal.com/)
+## [Rubikal, INC](https://www.rubikal.com/)
 **Software Engineer** \
 *Dec. 2020 - Aug. 2022 (Egypt)* \
 Rubikal is a software house company, I worked with a team of professional software engineers to deliver software solutions to tech companies across the globe.
@@ -34,7 +34,7 @@ The majority of the products I worked on at Rubikal used AWS for the server-side
 *Jul. 2020 - Sept. 2020 (Egypt)* \
 I did a summer internship at Rubikal where I worked as a back-end developer on an internal tool for managing food orders for the employees during the launch time. I also worked on scrapping restaurant data to automate the ordering process easily.
 
-### [Vault Studio (Formerly Chamber DS)](https://www.vaultstudio.io/) 
+## [Vault Studio (Formerly Chamber DS)](https://www.vaultstudio.io/) 
 **Freelancer React Native Mobile Developer**
 *Aug. 2021 - Apr. 2022 (Remote)* \
 I worked as a freelancer mobile developer on a product called innerPro for athletes and athletic clubs. I mainly used React Native for implementing new features, refactoring existing code, enhancing performance, and fixing bugs.
