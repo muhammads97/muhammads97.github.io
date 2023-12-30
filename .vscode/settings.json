@@ -9,6 +9,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "_pages/teaching.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_pages/experience.md"
         }
     ]
 }

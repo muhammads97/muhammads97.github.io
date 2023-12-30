@@ -7,10 +7,7 @@ main:
     url: /teaching/    
 
   - title: "Work Experience"
-    url: /experience/  
-
-  - title: "Muhammad Salah"
-    url: /about/   
+    url: /experience/   
     
   # todo:
   # - title: "Portfolio"
