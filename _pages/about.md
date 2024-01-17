@@ -14,9 +14,8 @@ I received my bachelor's degree from Alexandria University in Egypt, from the De
 [[Curriculum Vitae](../files/Muhammad_Salah.pdf)]
 
 **Research**\
-My research interests include utilizing deep learning for earth observation, artificial intelligence applications, image processing, satellite data, water quality monitoring, and sequential data modeling. My bachelor's graduation research focused on modeling sentiment in music and generating music given a desired emotion. Currently, my research for my Master's Degree focuses on water quality monitoring using satellite data by utilizing deep learning for modeling remote sensing data and ocean color. One of my contributions to the remote sensing field is modeling remote sensing reflectance as a sequence of co-related values using bidirectional LSTM networks instead of assuming independent reflectance values.\
-\
-I'm interested in working with geostationary satellites with high temporal resolution in the future.
+My research interests include using deep learning for earth observation, artificial intelligence applications, image processing, satellite data, water quality monitoring, and sequential data modeling. My bachelor's graduation research focused on modeling sentiment in music and generating music given a desired emotion. Currently, my research for my Master's Degree focuses on water quality monitoring using satellite data by using deep learning for modeling remote sensing data and ocean color. One of my contributions to the remote sensing field is modeling remote sensing reflectance as a sequence of co-related values using bidirectional LSTM networks instead of assuming independent reflectance values.\
+I'm interested in working in modeling spatio-temporal data.
 
 
 **Studies**\
@@ -25,8 +24,7 @@ During my bachelor's degree at Alexandria University, I studied in-depth compute
 I love to describe myself as not only a researcher but also an engineer, which strengthens my ability to work on projects from research to deployment. And makes my code readable, simple, and efficient.
 
 **Collaborations**\
-I'm currently finishing my Master's studies under the supervision of Professor Salem Ibrahim Salem, in the Remote Sensing Lab under the management of Professor Kazuo Oki. I collaborate with the Japan Aerospace Exploration Agency ([JAXA](https://global.jaxa.jp/)) to develop state-of-the-art Chla estimation models for the SGLI instrument on board the GCOM-C satellite.\
-I'm also open to research collaboration with other institutions.\
+I'm currently finishing my Master's studies under the supervision of Professor Salem Ibrahim Salem, in the Remote Sensing Lab under the management of Professor Kazuo Oki. I collaborate with the Japan Aerospace Exploration Agency ([JAXA](https://global.jaxa.jp/)) to develop state-of-the-art Chla estimation models for the SGLI instrument on board the GCOM-C satellite. I'm also open to research collaboration with other institutions.\
 \
 I unofficially supervise a few undergraduate students in the remote sensing lab, where each student works on a separate research point; including Harmful Algal Bloom detection and classification, Water Quality parameter estimation, and fine-tuning Chla algorithms.
 

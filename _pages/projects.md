@@ -14,7 +14,7 @@ SGLICollect is an open source software for searching, downloading and reading SG
 This project is built using Python as the main programming language, it's developed for the research community, and will soon have a Graphical User Interface for the ease of use. I will also create an installable version of the software so that the dependencies don't cause any problems for the users. it's still under development, feel free to create issues or PR. \
 *Acknowledgement: This project is developed as part of my master's degree in Kyoto University of Advanced Science, under the Remote Sensing Laboratory.* 
 
-## [3LATNet](https://github.com/muhammads97/3LATNet)
+## 3LATNet
 This is 3LATNet: a deep learning model for the estimation of Chla concentration using the Remote Sensing Reflectance (Rrs) of the SGLI sensor hosted on the GCOM-C satellite. This model is based on the LSTM network and the attention mechanism. 
 
 *This work is under publication*
